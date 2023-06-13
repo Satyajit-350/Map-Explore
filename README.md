@@ -42,7 +42,7 @@ git clone git@github.com:Satyajit-350/Map-Explore.git
 ```
 2. Open the project in Android Studio.
 
-3. Add the Google Maps API KEY in Manifest file and Constant file
+3. Add the Google Maps API KEY in Manifest file and Constants.kt file
 ```XML
 
 api_key = "YOUR API KEY"
