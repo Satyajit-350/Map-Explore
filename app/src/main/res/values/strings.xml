@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Map Explore</string>
+    <string name="search_your_place">Search Your Place</string>
+    <string name="directions">Directions</string>
+    <string name="_4_1">4.1</string>
+    <string name="location_address">Location Address</string>
+    <string name="location_name">Location Name</string>
+    <string name="open">Open</string>
+    <string name="_1606">(1606)</string>
+</resources>
