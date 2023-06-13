@@ -23,7 +23,7 @@ This README file provides instructions on how to build and run the app, as well 
 
 <p align = "center">
  <img alt="GIF" src="https://media.giphy.com/media/XF8JRf1dlKpeecrozH/giphy.gif" width="30%">
- <img alt="GIF" src="https://media.giphy.com/media/lARyCXhGV9fr4gVBA4/giphy.gif" width="30%">
+ <img alt="GIF" src="https://media.giphy.com/media/1crSVFtBWTonHxefA7/giphy.gif" width="30%">
  <img alt="GIF" src="https://media.giphy.com/media/HRVcYLnhOemg3FSkZM/giphy.gif" width="30%">
  </p>
  
