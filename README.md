@@ -62,8 +62,6 @@ api_key = "YOUR API KEY"
 - The app uses the Model-View-ViewModel (MVVM) architecture for separation of concerns and easier testing.
 - Permissions for accessing user location are requested at runtime when necessary.
 
-Feel free to customize and expand upon these instructions and design decisions based on your specific app's requirements.
-
 # Screenshots
 
 <p align = "center">
