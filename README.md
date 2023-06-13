@@ -30,7 +30,7 @@ This README file provides instructions on how to build and run the app, as well 
  ## Application Install
 You can Install and test the app from below 👇
 
-[![Map-Explore](https://img.shields.io/badge/Map_Explore-APK-silver.svg?style=for-the-badge&logo=android)](https://github.com/Satyajit-350/Map-Explore/tree/master/apk)
+[![Map-Explore](https://img.shields.io/badge/Map_Explore-APK-silver.svg?style=for-the-badge&logo=android)](https://github.com/Satyajit-350/Map-Explore/releases/tag/1.0.0)
 
 ## Build and Run Instructions
 
