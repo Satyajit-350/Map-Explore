@@ -64,7 +64,7 @@ api_key = "YOUR API KEY"
 
 Feel free to customize and expand upon these instructions and design decisions based on your specific app's requirements.
 
-#Screenshots
+# Screenshots
 
 <p align = "center">
  <img src = "https://github.com/Satyajit-350/Map-Explore/blob/master/preview/Screenshot_2023-06-13-16-57-49-18_ab1359306de43320f9557c797b1c4be5.jpg" height="350">
